@@ -1,5 +1,5 @@
 '.platform-darwin':
-  'alt-s': 'settings-view:open'
+  'ctrl-,': 'settings-view:open'
 
 '.platform-win32, .platform-linux':
-  'alt-s': 'settings-view:open'
+  'ctrl-,': 'settings-view:open'
